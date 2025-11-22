@@ -36,8 +36,8 @@ def print_banner():
 \____/_/ /_/\____/____/\__/  /_/ |_|\___/\___/\____/_/ /_/ 
                                                                                                                                                                                                                                                                                       
                                                                                                                                                                               """)
-    print(f"{NC}")
     print(r"                            by @ryuug4  ")
+    print(f"{NC}")
     print()
 
 
