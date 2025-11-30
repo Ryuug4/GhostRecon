@@ -14,8 +14,9 @@
 1. **Clone the Repository:**
 
     `git clone https://github.com/Ryuug4/GhostRecon.git`
+    `cd GhostRecon`
 
-2. **Run the Script:**
+3. **Run the Script:**
 
     `sudo python3 ghostrecon.py -H <targetip/domain> -t All`
 
